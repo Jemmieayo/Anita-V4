@@ -1,7 +1,7 @@
 # Anita-V4
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot Coded By Bolaji Jemmie ⚡</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/s4tg7i.jpg"/>       
